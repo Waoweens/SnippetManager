@@ -1,0 +1,2 @@
+# SnippetManager
+terminal snippet manager
